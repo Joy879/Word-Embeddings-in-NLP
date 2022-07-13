@@ -11,7 +11,9 @@ Both functions give outputs in terms of probabilities
 #### 2. How does cross-entropy loss function change for Binary Classification task vs Multi-Class Classification task?
 
 #### 3. On the Lab Notebook, try running the code with a different dataset of your choice.
-[Answers](https://github.com/Joy879/Word-Embeddings-in-NLP/blob/main/Homework1/CBoW_training_new_data.ipynb)
+
+
+   [Answers](https://github.com/Joy879/Word-Embeddings-in-NLP/blob/main/Homework1/CBoW_training_new_data.ipynb)
 
 #### 4. Apply PCA/T-SNE or both to reduce the N dimensions to 2D space and visualize the word embeddings. Please write-up your observations on the same.
 [T-SNE reference](https://www.kaggle.com/code/jeffd23/visualizing-word-vectors-with-t-sne/notebook)
