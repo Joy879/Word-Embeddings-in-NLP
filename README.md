@@ -2,7 +2,7 @@
 
 Short notes and assignments from an [Omdena Word Embeddings course](https://omdena.com/course/natural-language-processing-word-embeddings/)
 
-Credits to the instructor Sai Phani Parsa
+Credits to the instructor [Sai Phani Parsa](https://www.linkedin.com/in/saiphaniparsa/)
 
 ### Syllabus
 * The basics of Natural Language Processing such as Bag of Words, TF-IDF, etc.
