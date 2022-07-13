@@ -2,7 +2,9 @@
 Use cases
 * sigmoid function is used for _binary classification_
 * softmax is used for _multiclass classification_
-Both functions give outputs in terms of probabilities.
+
+Both functions give outputs in terms of probabilities
+
 * For softmax the _sum of all probabilities has to be 1_. And when using it for multiclass classification, the class to be selecetd will have a higher probability than other classes.
 * For sigmoid the _sum of probabilities does not have to be one_. 
 
