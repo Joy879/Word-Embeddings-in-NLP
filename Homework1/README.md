@@ -1,3 +1,10 @@
+_Based on CBoW implementation_
+
+![cbpw](https://user-images.githubusercontent.com/70502261/178653742-41533817-83f2-43a3-9275-3ae017f0242f.png)
+
+### Questions
+
+
 #### 1. What is the difference between Sigmoid and Softmax activation?
 Use cases
 * sigmoid function is used for _binary classification_
