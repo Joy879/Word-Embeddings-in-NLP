@@ -6,14 +6,12 @@ _Based on CBoW implementation_
 
 
 #### 1. What is the difference between Sigmoid and Softmax activation?
-Use cases
-* sigmoid function is used for _binary classification_
-* softmax is used for _multiclass classification_
 
-Both functions give outputs in terms of probabilities
+||Sigmoid|Softmax|
+|---|---|---|
+|Use cases|Used for _binary classification_|used for _multiclass classification_|
+|Probabilities|the _sum of probabilities does not have to be one_ When using it for classification, the class to be selecetd will not necessarily have a higher probability than the other class.|the _sum of all probabilities has to be 1_. When using it for multiclass classification, the class to be selecetd will have a higher probability than other classes.|
 
-* For softmax the _sum of all probabilities has to be 1_. And when using it for multiclass classification, the class to be selecetd will have a higher probability than other classes.
-* For sigmoid the _sum of probabilities does not have to be one_. 
 
 #### 2. How does cross-entropy loss function change for Binary Classification task vs Multi-Class Classification task?
 
