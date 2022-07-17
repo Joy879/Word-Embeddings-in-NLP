@@ -19,4 +19,4 @@
 
 |Word2vec| GloVe|
 |---|---|
-Word2vec leverages co-occurance within local context (neighbouring words).|| Glove model is based on leveraging global word to word co-occurance counts leveraging the entire corpus.| 
+Word2vec leverages co-occurance within local context (neighbouring words).| Glove model is based on leveraging global word to word co-occurance counts leveraging the entire corpus.| 
