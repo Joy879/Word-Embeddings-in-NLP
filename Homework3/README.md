@@ -8,3 +8,9 @@
 
 
 #### 3. Please prepare notes comparing Word2Vec, GloVe and FastText word embedding comparison.
+
+
+| Word2Vec       | GloVe           | FastText      |
+|----------------|:---------------:|--------------:|
+|  |             |            |
+|  |             |            |
